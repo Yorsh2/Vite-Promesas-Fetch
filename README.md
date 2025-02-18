@@ -3,7 +3,7 @@
 ## Jorge Alberto Guzmán Álvarez
 ## Dr. Francisco Ibarra Carlos
 
-### ---- Correspondiente a la Unidad 2 ----
+### ---- Correspondiente a la Unidad 2 / Functions ----
 
 Este es un proyecto de Vite+React donde se abordan notas de clase sobre el uso de promesas y funciones Fetch
 Las notas principales que se abarcan son las siguientes:
