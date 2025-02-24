@@ -32,4 +32,18 @@ function App() {
   )
 }
 
-export default App
+// // export default App
+// import { Login } from "./components/Login";
+
+// const App = () => { 
+//   return ( 
+//     <div> 
+//       <h1>Introducción a Type Script with React</h1> 
+//       <hr/> 
+//       {/*<TiposBasicos ></TiposBasicos>*/} 
+//       {/*<ObjetosLiterales/>*/} 
+//       {/*<ContadorHook/>*/} 
+//       {<Login/>} 
+//     </div> 
+//   ) 
+// }
